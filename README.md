@@ -35,7 +35,7 @@ asserts: 1 | 0 passed | 1 failed
 
 ## Modifications
 
-`#include <boost/ut.hpp>` replaced with `#include "libs/ut.hpp"` in [ApprovalTests.v.10.3.0.hpp](libs/ApprovalTests.v.10.3.0.hpp#2337)
+`#include <boost/ut.hpp>` replaced with `#include "libs/ut.hpp"` in [ApprovalTests.v.10.3.0.hpp](libs/ApprovalTests.v.10.3.0.hpp#2337)](https://github.com/mgnisia/ut-approvaltests-example/blob/master/libs/ApprovalTests.v.10.3.0.hpp#L2237)
 
 
 ## Software
