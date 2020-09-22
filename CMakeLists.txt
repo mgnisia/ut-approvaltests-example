@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.10)
+project(APPROVAL_UT_AMPERSAND) 
+set(CMAKE_CXX_STANDARD 20)
+set(CXX_STANDARD_REQUIRED)
+set(CMAKE_BUILD_TYPE RELEASE)
+INCLUDE_DIRECTORIES("${PROJECT_SOURCE_DIR}")
+# INCLUDE_DIRECTORIES("${PROJECT_SOURCE_DIR}/libs/ut")
+add_executable(ut_example src/example.cpp)
